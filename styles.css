@@ -1,0 +1,28 @@
+body {
+  background-color: aquamarine;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: rgb(240, 37, 37);
+  background-color: rgb(85, 47, 255);
+}
+
+.truth {
+  font-size: 40px;
+  background-color: magenta;
+}
+
+h2.falth {
+  color: rgb(240, 37, 206);
+}
+img {
+  border: 10px solid coral;
+}
+
+p {
+  font-style: italic;
+}
