@@ -9,6 +9,7 @@ h1 {
 h2 {
   color: rgb(240, 37, 37);
   background-color: rgb(85, 47, 255);
+  width: 50%;
 }
 
 .truth {
@@ -25,4 +26,8 @@ img {
 
 p {
   font-style: italic;
+}
+
+.mother {
+  background-color: brown;
 }
